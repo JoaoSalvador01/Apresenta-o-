@@ -1,0 +1,35 @@
+
+body{
+    background-color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: chocolate;
+
+}
+
+.perfil{
+    widtd: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: solid 2px blue;
+}
+
+h2{
+    background-color: rgb(216, 219, 49);
+    padding: 1px;
+}
+
+a{
+    display: block;
+    margin: 8px;
+    color: rgb(187, 76, 76);
+}
+
+footer{
+    color: rgb(0, 140, 255);
+}
